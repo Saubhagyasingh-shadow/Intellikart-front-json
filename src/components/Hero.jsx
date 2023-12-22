@@ -1,5 +1,5 @@
 import React from 'react';
-import heroimg from '../assets/home.jpg';
+import heroimg from '../assets/Home.jpg';
 import Filter from './Filter';
 
 function Hero() {
